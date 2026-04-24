@@ -1,0 +1,64 @@
+===== TEMPLATES =====
+
+TEMPLATE 1:
+Helped someone today with a [problem].  
+Turned out to be [cause].  
+
+If anyone around Pensacola is dealing with something similar, I do mobile diagnostics and can come take a look.  
+
+Way easier than towing it to a shop.
+
+---
+
+TEMPLATE 2:
+Had a bike earlier that was [symptom].  
+Most people would think it’s [common wrong guess], but it ended up being [actual issue].  
+
+If your bike’s acting up like that, I can come check it out.
+
+---
+
+TEMPLATE 3:
+Quick one today — bike wouldn’t [issue].  
+
+Tracked it down to [problem].  
+
+If anyone local is dealing with something like that, I do mobile diagnostics.
+
+---
+
+===== READY TO POST =====
+
+Helped someone today with a bike that wouldn’t start, turned out to be a bad ground connection.
+
+If anyone around Pensacola is dealing with something similar, I do mobile diagnostics and can come take a look.
+
+---
+
+Had a bike earlier that was running rough at idle, ended up being dirty injectors.
+
+If your bike’s acting up like that, I can check it out.
+
+---
+
+Quick one today — bike wouldn’t crank at all.
+
+Tracked it down to a bad starter relay.
+
+If anyone local is dealing with something like that, I do mobile diagnostics.
+
+---
+
+Worked on a bike that kept dying after a few minutes of riding.
+
+Ended up being a charging system issue.
+
+If you’ve got something similar going on, I can come take a look.
+
+---
+
+Had someone think their battery was dead, but it turned out the stator wasn’t charging.
+
+If your bike keeps killing batteries, that’s usually not the battery.
+
+I do mobile diagnostics around Pensacola if you need it checked out.
