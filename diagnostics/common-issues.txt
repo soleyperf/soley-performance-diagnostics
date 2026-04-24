@@ -1,0 +1,14 @@
+NO START:
+- Battery
+- Starter relay
+- Ground issue
+
+RUNS ROUGH:
+- Dirty injectors
+- Bad plugs
+- Vacuum leak
+
+ELECTRICAL:
+- Stator
+- Regulator/rectifier
+- Battery connections
