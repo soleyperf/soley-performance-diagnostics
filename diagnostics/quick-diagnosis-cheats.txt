@@ -1,0 +1,4 @@
+If it clicks → battery or relay  
+If it cranks slow → battery  
+If it dies at idle → air/fuel issue  
+If lights flicker → charging system  
