@@ -1,0 +1,10 @@
+1. What bike (year/make/model)?
+2. What exactly is it doing?
+3. When did it start?
+4. Does it still start/run?
+5. Your location?
+
+Goal: determine if it’s:
+- Quick diagnostic (good)
+- Simple fix (best)
+- Time-wasting nightmare (avoid)
