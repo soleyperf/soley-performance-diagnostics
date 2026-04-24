@@ -62,3 +62,45 @@ Had someone think their battery was dead, but it turned out the stator wasn’t 
 If your bike keeps killing batteries, that’s usually not the battery.
 
 I do mobile diagnostics around Pensacola if you need it checked out.
+
+---
+
+===== NEW SOFT POSTS =====
+
+Had a bike that would click but wouldn’t crank.
+
+Battery tested okay, but the connection at the starter solenoid was loose.
+
+If your bike is doing the click-and-nothing thing, I can come check it before you start buying parts.
+
+---
+
+Worked through a rough-running issue where the bike would start, idle a little, then stumble when you gave it throttle.
+
+Ended up being a fuel delivery problem, not the big engine issue the owner was worried about.
+
+If yours is acting like that around Pensacola, mobile diagnostics can save a lot of guessing.
+
+---
+
+Quick check today - rider thought the bike needed another battery.
+
+Charging voltage was low, so the battery was really just the symptom.
+
+If your bike keeps needing a jump, it is worth testing the charging system before replacing parts.
+
+---
+
+Had one that would start cold but get weird once it warmed up.
+
+Tracked it down to an air/vacuum issue that was throwing the idle off.
+
+Small stuff can make a bike act bigger-broken than it really is. I can come take a look if yours is doing something similar.
+
+---
+
+Helped narrow down a no-spark problem today.
+
+It wasn’t the plugs - the issue was in the safety/kill switch circuit.
+
+If your bike cranks but will not fire, I do mobile diagnostics around Pensacola and can help figure out where it is losing spark.
