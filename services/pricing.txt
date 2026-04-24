@@ -1,7 +1,56 @@
-Base Diagnostic (mobile): $100
+Soley Performance Diagnostics
+Pensacola Mobile Motorcycle Diagnostics Pricing
+Updated: April 2026
 
-Quick Check (battery/charging): $60–$80
+Positioning
+Mobile diagnostics should save the customer a tow, reduce shop wait time, and give a clear repair path. These prices are built to stay competitive with Pensacola mobile diagnostic calls while still charging properly for skilled motorcycle electrical, fuel, and no-start troubleshooting.
 
-Tune-up: $120–$180 depending on bike
+Core Mobile Diagnostic Visit - $95
+Best for: check-engine/FI light, rough idle, poor running, basic no-start triage, battery/charging concerns, post-storage issues, and "I need to know what is wrong."
+Includes:
+- Travel within the core Pensacola service area
+- Symptom verification
+- Code scan when the bike supports it
+- Battery and charging quick check when relevant
+- Visual inspection of obvious failure points
+- Clear findings and next-step repair estimate
+Time included: up to 45 minutes on site.
 
-Travel fee (if needed): $20–$40
+Advanced Diagnostic / No-Start / Electrical - $125 first hour
+Best for: intermittent electrical faults, crank/no-start, fuel/ignition problems, sensor faults, charging failures, wiring issues, parasitic draw, and bikes that need deeper testing.
+Includes: the first hour of testing.
+Additional time: $90/hour, billed in 30-minute increments only with customer approval.
+
+Battery, Starter, and Charging Check - $65
+30-minute focused check for weak battery, starter/solenoid symptoms, charging output, loose connections, and basic cable condition.
+If the problem requires deeper tracing, apply the $65 toward a Core or Advanced Diagnostic the same visit.
+
+Pre-Purchase Motorcycle Inspection - $125
+On-site buyer inspection with start/run check, charging check, leak/fluids visual, brakes/tires/chain/sprockets, controls/lights, obvious crash or neglect signs, and a plain-language buy/no-buy risk summary.
+Add compression test when accessible: +$50.
+
+Post-Storage Start-Up / Quick Tune Assessment - $85
+For bikes that have been sitting. Includes fuel condition check, battery/charging quick check, basic air/fuel/spark direction, and a restart plan.
+Repairs, carb cleaning, parts, fluids, and teardown are quoted separately.
+
+Tune-Up / Maintenance Labor - starting at $140
+Common work: plugs, air filter, oil/filter, chain adjustment, battery install, and basic inspection.
+Final price depends on bike access, parts, fluids, and whether fairings/tank removal are needed.
+
+Repair Labor After Diagnosis - $90/hour
+Quoted before work begins. Larger jobs can be flat-rated when the scope is clear.
+
+Travel
+- Included: Pensacola core, West Pensacola, Ferry Pass, Warrington, Myrtle Grove, Bellview, Ensley.
+- Nearby add-on: Pace, Milton, Gulf Breeze, Cantonment, Perdido, Beulah: typically +$25 to $45 depending on distance and schedule.
+- Longer trips: quoted before booking.
+
+Conversion Offer
+If the customer approves a repair over $250 within 14 days, credit $50 of the diagnostic visit toward the repair labor.
+
+Scheduling / Policy
+- No work starts without customer approval.
+- Parts, fluids, shop supplies, and specialty items are extra unless stated.
+- Customer must provide a safe, legal work area with room around the motorcycle.
+- Same-day or after-hours appointments may include a $35 convenience fee.
+- If the bike is unsafe to run or needs shop-only equipment, the diagnostic still provides findings and recommended next steps.
